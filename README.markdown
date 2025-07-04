@@ -10,7 +10,9 @@ I'm a budding tech enthusiast with a passion for web development, JavaScript, an
 ## 🏆 Achievements
 Here are some badges showcasing my progress:
 
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3708455)
+![TryHackMe Profile Badge](https://tryhackme-badges.s3.amazonaws.com/god.knows.png?update=0)
+
+<img src="https://assets.tryhackme.com/room-badges/abfa7b0c4387af04d4fc94d45ffb8139.png" width="350" alt="TryHackMe Room Badge">
 
 ![Codewars Badge](https://www.codewars.com/users/Ali.codes/badges/large)
 
