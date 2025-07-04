@@ -10,7 +10,7 @@ I'm a budding tech enthusiast with a passion for web development, JavaScript, an
 ## 🏆 Achievements
 Here are some badges showcasing my progress:
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/3708455.png)
+![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3708455)
 
 ![Codewars Badge](https://www.codewars.com/users/Ali.codes/badges/large)
 
@@ -20,6 +20,6 @@ Here are some badges showcasing my progress:
 - Always curious about new vulnerabilities.
 
 ## 📫 Get in Touch
-- 📧 Email: [Your email, e.g., ali.codes@example.com]
+- 📧 Email: ali.codes1279@gmail.com
 - 🌐 GitHub: You're already here!
-- 🐦 X: [Your X handle, e.g., @AliCodes]
+- 🐦 Telegram: t.me/M999ali
