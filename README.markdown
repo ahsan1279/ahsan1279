@@ -1,27 +1,46 @@
-# 👋 Hi, I'm Ali!
+<p align="center">
+  <img src="https://github.com/ahsan1279/ahsan1279/blob/main/Banner.jpeg" alt="ahsan1279 Operator Banner" width="100%">
+</p>
 
-I'm a budding tech enthusiast with a passion for web development, JavaScript, and server-side technologies. My heart lies in cybersecurity, where I focus on mastering web application security and penetration testing to uncover vulnerabilities and build secure systems.
+# 📡 ahsan1279
 
-## 🔒 What I'm Working On
-- Practicing web app vulnerabilities to sharpen my pentesting skills.
-- Exploring the Metasploit framework for hands-on experience.
-- Learning servers and JavaScript to deepen my technical expertise.
+> **Security Researcher | Bug Hunter | Continuous Learner**
 
-## 🏆 Achievements
-Here are some badges showcasing my progress:
+---
 
-![TryHackMe Profile Badge](https://tryhackme-badges.s3.amazonaws.com/god.knows.png?update=0)
+## 📁 Documented Vulnerability & Incident Analyses
 
-<img src="https://assets.tryhackme.com/room-badges/abfa7b0c4387af04d4fc94d45ffb8139.png" width="350" alt="TryHackMe Room Badge">
+A centralized archive of my technical write-ups, lab environments, and practical assessments:
 
-![Codewars Badge](https://www.codewars.com/users/Ali.codes/badges/large)
+### 📑 [Go to /security-portfolio](https://github.com/ahsan1279/security-portfolio)
+*   **Offensive:** Documented exploit chains mapping cross-domain flaws (Reflected XSS to Clickjacking) and multi-severity practical infrastructure assessments.
+*   **Defensive:** Log triage tracking anomalous patterns and post-mortem investigations of SSH brute-force traffic.
 
-## 🌟 Fun Facts
-- I love the thrill of solving CTF challenges!
-- Inspired by *Silicon Valley*’s Scrum methodology.
-- Always curious about new vulnerabilities.
+---
 
-## 📫 Get in Touch
-- 📧 Email: ali.codes1279@gmail.com
-- 🌐 GitHub: You're already here!
-- 🐦 Telegram: t.me/M999ali
+## 🛠️ Scripting & Network Arsenal
+
+### 🐍 [python-networking](https://github.com/ahsan1279/python-networking)
+Lightweight Python utilities built for security testing and understanding network fundamentals:
+*   **Multi-threaded TCP Server** – Script for handling concurrent incoming connections.
+*   **Network Clients** – Minimalist TCP/UDP clients designed for raw data injection and packet generation.
+
+---
+
+## ✍️ Published Write-ups
+
+[![Medium Post](https://img.shields.io/badge/Medium-How_I_Found_My_First_$250_Stored_XSS-000000?style=for-the-badge&logo=large&logoColor=white)](https://medium.com/@ali.codes1279/how-i-found-my-first-250-stored-xss-when-i-almost-quit-ac03afde2b2d)
+
+*   **[How I Found My First $250 Stored XSS When I Almost Quit](https://medium.com/@ali.codes1279/how-i-found-my-first-250-stored-xss-when-i-almost-quit-ac03afde2b2d)** – A transparent walk-through covering manual payload verification, context escaping, and responsible disclosure on a live production asset.
+
+---
+
+## 🏆 Learning Tracks
+
+### 🛡️ [TryHackMe Profile](https://tryhackme.com/p/god.knows)
+*   **Completed:** Cyber Security 101
+*   **Current Objective:** SOC Level 1 Roadmap (Prioritizing log parsing, SIEM event monitoring, and packet analysis).
+
+---
+
+📧 **Secure Contact:** [ali.codes1279@example.com]
